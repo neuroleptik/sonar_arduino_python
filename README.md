@@ -7,8 +7,8 @@ If you want to see the full HTML output please visit : https://jean-baptiste-bra
 Here you can find the HTML output produced by my .rmd file, which is on my portfolio. 
 
 # Python application execution
-'''
-python 
-'''
+```
+python ./serial_com.py
+```
 # Remerciements
-Thanks to [Wojjy72](https://github.com/Wojjy72), who produced a big part of the python application, I only modify several parts.
+Thanks to [Wojjy72](https://github.com/Wojjy72), who produced a big part of the python application, I only rewrote several parts.
